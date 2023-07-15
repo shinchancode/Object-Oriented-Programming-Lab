@@ -1,10 +1,10 @@
 /*AARTI RATHI
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 /*Problem Statement :
-Implement a generic program using any collection class to count the number of elements in a collection that have a specific property such as even numbers, odd number, prime number and palindromes.  */
+Implement a generic program using any collection class to count the number of elements in a collection that have a specific property such as even numbers, odd number, prime number and palindromes.
 
-----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------- */
 
 package assign7 
 import java.util.*; 
