@@ -2,9 +2,9 @@
 My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 /*Problem Statement :
-Implement and apply Strategy Design pattern for simple Shopping Cart where three payment strategies are used such as Credit Card, PayPal, Bit Coin. Create an interface for strategy pattern and give concrete implementation for payment */
+Implement and apply Strategy Design pattern for simple Shopping Cart where three payment strategies are used such as Credit Card, PayPal, Bit Coin. Create an interface for strategy pattern and give concrete implementation for payment 
 
-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------*/
 
 // ShoppingCartTest.java 
 
