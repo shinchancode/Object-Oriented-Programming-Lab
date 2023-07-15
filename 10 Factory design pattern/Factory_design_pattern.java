@@ -4,9 +4,9 @@ My website - https://shinchancode.github.io/3d-react-portfolio/
 
 /*Problem Statement :
 
-Implement Factory design pattern for the given context. Consider Car building process, which requires many steps from allocating accessories to final makeup. These steps should be written as methods and should be called while creating an instance of a specific car type. Hatchback, Sedan, SUV could be the subclasses of Car class. Car class and its subclasses, CarFactory and Test Factory Pattern should be implemented */
+Implement Factory design pattern for the given context. Consider Car building process, which requires many steps from allocating accessories to final makeup. These steps should be written as methods and should be called while creating an instance of a specific car type. Hatchback, Sedan, SUV could be the subclasses of Car class. Car class and its subclasses, CarFactory and Test Factory Pattern should be implemented 
 
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------*/
 
 // Car.java 
 
