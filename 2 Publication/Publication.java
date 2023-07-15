@@ -1,5 +1,6 @@
 /*AARTI RATHI
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /*Problem Statement : 
 Identify commonalities and differences between Publication, Book and Magazine classes. Title, Price, Copies are common instance variables and saleCopy is common method. The differences are, Bookclass has author and orderCopies(). Magazine Class has methods orderQty, Current issue, receiveissue().Write a program to find how many copies of the given books are ordered and display total sale of publication. */
@@ -169,7 +170,8 @@ public class New
 } 
 } 
 
------------------------------------------------------------------------------------------------------------------------------------------------
+/*
+ -----------------------------------------------------------------------------------------------------------------------------------------------
 OUTPUT :
 
 Enter No. of copies(Book)
@@ -208,3 +210,4 @@ OPERATION COMPLETED!!)
 
 ...Program finished with exit code 0
 Press ENTER to exit console.
+ */
