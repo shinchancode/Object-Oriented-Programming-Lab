@@ -1,5 +1,5 @@
 /*AARTI RATHI
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 /*Problem Statement :
 
@@ -8,9 +8,9 @@ Implement a program for maintaining a database of student records using Files.St
 2. Display Database 
 3. Delete Records
 4. Update Record
-5. Search Record */
+5. Search Record 
 
-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------*/
 
 package assign8 
 import java.io.*; 
