@@ -82,3 +82,18 @@ OOPs Concepts (SEM 3) - Constructor, commond line argument, inheritance, Generic
 ## [Assignment-11 : Strategy Design pattern](https://github.com/shinchancode/Object-Oriented-Programming-Lab/tree/main/11%20Strategy%20Design%20pattern)
 
 **[11] Implement and apply Strategy Design pattern for simple Shopping Cart where three payment strategies are used such as Credit Card, PayPal, Bit Coin. Create an interface for strategy pattern and give concrete implementation for payment.**
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluency/48/twitter.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://shinchancode.github.io/3d-react-portfolio/
+[twitter]: https://twitter.com/CodeShinchan
+[instagram]: https://www.instagram.com/aarti.rathiii
+[linkedin]: https://www.linkedin.com/in/aarti-rathi-a6031814b/
+
